@@ -1,6 +1,5 @@
 # Framegram Analysis: Womanhood in relation to romance 
 # Student Name: Sonia Siddiqui 
-# Date: 11/05/2025
 
 # --- 1. SETUP: Load Packages and Define Stop Words ---
 
